@@ -151,7 +151,7 @@ var daysstring = "";
   document.getElementById("min").innerHTML = minutestring;
   document.getElementById("sec").innerHTML = secstring;
    
-     document.getElementById("demo2").innerHTML = "Vai  " + getAge('11/06/1996')
+     document.getElementById("demo2").innerHTML = "Arpita  " + getAge('11/06/1996')
   // If the count down is over, write some text 
   
   if (distance < 0) {
